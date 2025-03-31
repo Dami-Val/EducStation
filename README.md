@@ -67,14 +67,15 @@ EducStation is born from EducCorp's vision to transform education through collab
 
 
 
+
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/Educcorp/EducStation/blob/main/public/assets/images/screenshot1.png" alt="Homepage" width="300"/><br /><b>Homepage</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/b420f12a-fb4f-4a2e-b9cd-0a4bb41e5752" alt="Homepage" width="300"/><br /><b>Homepage</b></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/cb69b2aa-68c4-43b4-8777-15f24bd9a1c6" alt="Blog" width="300"/><br /><b>Blog Section</b></td>
   </tr>
   <tr>
     <td align="center"><img src="https://github.com/Educcorp/EducStation/blob/main/public/assets/images/screenshot3.png" alt="Profile" width="300"/><br /><b>Educator Profile</b></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/efe40e87-dac2-4392-ac3b-bfcd7fb04de0" width="300"/><br /><b>Detailed Article</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/a0839454-b6ce-4811-845d-7cd86aa1330e" width="300"/><br /><b>Detailed Article</b></td>
   </tr>
 </table>
 
