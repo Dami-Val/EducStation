@@ -54,12 +54,12 @@ EducStation is born from EducCorp's vision to transform education through collab
 
 |  Features  | Description |
 | --- | --- |
-| 📝 **Educational Blog** | High-quality articles on pedagogical innovation and best practices |
-| 👥 **Educator Profiles** | Platform for professionals to showcase their experience and resources |
-| 🗂️ **Intelligent Categorization** | Category navigation system |
-| 💬 **Comments and Discussions** | Space for constructive debates on educational topics |
-| 📊 **Trend Analysis** | Metrics on topics of interest in the educational community |
-| 📱 **Responsive Design** | Optimized experience on all devices |
+| 📝 *Educational Blog* | High-quality articles on pedagogical innovation and best practices |
+| 👥 *Educator Profiles* | Platform for professionals to showcase their experience and resources |
+| 🗂 *Intelligent Categorization* | Category navigation system |
+| 💬 *Comments and Discussions* | Space for constructive debates on educational topics |
+| 📊 *Trend Analysis* | Metrics on topics of interest in the educational community |
+| 📱 *Responsive Design* | Optimized experience on all devices |
 
 ##
 
@@ -86,7 +86,7 @@ https://github.com/user-attachments/assets/fcf32236-a3db-492b-ab5c-d4e36d67cc67
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Window.png" alt="Window" width="25" height="25" /> Getting Started  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Old%20Key.png" alt="Old Key" width="25" height="25" />
 
-```bash
+bash
 # Clone the repository:
 git clone https://github.com/Educcorp/EducStation.git
 
@@ -97,15 +97,15 @@ cd EducStation
 code .
 
 # Visit the following link to download Node.js:
-```
+
 [![Node.js](https://img.shields.io/badge/Node.js-Download-0b4444?style=plastic&logo=star&color=0b4444&labelColor=91a8a4)](https://nodejs.org/en/download)
 
-```python 
+python 
 # Download the appropriate version of Node.js for your operating system and then restart your computer.
  
 # Command to run the blog locally:
 npm start
-```
+
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="25" height="25" /> License
